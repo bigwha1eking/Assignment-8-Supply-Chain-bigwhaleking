@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-bcrypt = "==4.3.0"
 
 [dev-packages]
 
